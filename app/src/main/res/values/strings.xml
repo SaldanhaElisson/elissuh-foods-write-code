@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Elissuh Foods</string>
+    <string name="FirstCourse">Entrada</string>
+    <string name="MainDishe">Prato Principal</string>
+    <string name="Dessert">Sobremesa</string>
+    <string name="Drink">Bebida</string>
+
+    <string name="txtTitleDetails"> Adicione alguma observação</string>
+    <string name="ExDetailsEditText"> Ex: Salada sem molho, carne mal passada</string>
+    <string name="ConfirmObs"> Confirmar Observação</string>
+
+    <string name="txtButtonFinish">  Realizar Pedido | R$ 00,00</string>
+
+
+
+
+
+</resources>

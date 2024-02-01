@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElissuhFoods" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        <item name="colorAccent">@android:color/red</item>-->
+    </style>
+
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/red</item>
+        <item name="hintTextColor">@color/red</item>
+
+    </style>
+
+
+    <style name="Theme.ElissuhFoods" parent="Base.Theme.ElissuhFoods" />
+</resources>
