@@ -26,19 +26,23 @@ enter your
 
 
 ## Instruction
-<input type="checkbox" disabled /> Download [android Studio](https://developer.android.com/studio?hl=pt-br) 
+Download [android Studio](https://developer.android.com/studio?hl=pt-br) 
 
-<input type="checkbox" disabled /> Fork this repository
+- [ ] Fork this repository
 
-<input type="checkbox" disabled /> Clone your forked repository
+ - [ ] Clone your forked repository
 
-<input type="checkbox" disabled /> Add your scripts
+ - [ ] Add your scripts
 
-<input type="checkbox" disabled /> Commit and push
+ - [ ] Commit and push
 
-<input type="checkbox" disabled /> celebrate your first project in android development
+ - [ ] Celebrate your first project in android development
 
 ## Project
 
-<video src='teste_final.mp4' width=180> </video>
+
+
+https://github.com/SaldanhaElisson/elissuh-foods-write-code/assets/62814287/82c13a48-0590-48ed-9ce0-20eabb8e1793
+
+
 
